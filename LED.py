@@ -1,3 +1,7 @@
+#Author:TianZeyang&LuoYunxin
+#Date: 2026-3-30
+#Function:Contral LED on/off
+
 import RPi.GPIO as GPIO
 import time
 
