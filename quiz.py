@@ -1,4 +1,4 @@
-# Author: Luoyunxin
+# Author: Luoyunxin&Tianzayang
 # Date: 2026-03-30
 
 def quiz():
